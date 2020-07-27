@@ -1,2 +1,4 @@
 # Materi 3 - Clustering & Principal Component Analysis
 Pada materi ini, Anda akan mulai memasuki ranah data science. Pembelajaran yang ditekankan pada modul ini berpusat pada metodologi dari setiap algoritma mengingat setiap algoritma perlu digunakan dengan caranya masing - masing. Materi ke-3 adalah materi tentang unsupervised algorithm, di mana algoritma ini tidak memiliki variabel target dalam bekerja dan akan mengelompokan masing - masing sampel ke dalam klaster. Klaster tersebut akan berisikan data - data yang punya kemiripan pada komponen - komponennnya. Principal Component Analysis (PCA) adalah teknik dekomposisi yang mereduksi dimensi dari data, namun tetap berusaha untuk menyimpan variance dari data yang direduksi tersebut. Dengan begitu, data yang direduksi dapat divisualisasikan namun tetap mencerminkan dataset awal.
+
+Dataset reference link [here](https://www.kaggle.com/harrywang/wine-dataset-for-clustering)
