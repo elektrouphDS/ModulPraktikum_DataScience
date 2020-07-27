@@ -1,5 +1,4 @@
-# SELAMAT DATANG DI REPOSITORY MILIK 
-# PROGRAM STUDI TEKNIK ELEKTRO UPH
+# SELAMAT DATANG DI REPOSITORY MILIK PROGRAM STUDI TEKNIK ELEKTRO UPH
 Download seluruh folder yang terdapat pada repository ini untuk memudahkan Anda dalam mempelajari Data Science.
 
 ## Materi 1 - Pendahuluan : Data Science, Python, Jupyter Notebook & GitHub
