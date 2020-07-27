@@ -5,7 +5,7 @@ Download seluruh folder yang terdapat pada repository ini untuk memudahkan Anda 
 Materi ini akan mengajarkan Anda tentang dasar teoretis dari data science itu sendiri. Selain itu, materi ini akan mengajarkan Anda tentang instalasi dari sistem ([Anaconda](https://www.anaconda.com/) & [Jupyter Notebook](https://jupyter.org/)) yang akan digunakan selama praktikum dan cara penggunaan **GitHub**.
 
 ## Materi 2 - Data Types, Operations, Logical Operations & Function
-Materi ini akan membiasakan Anda untuk menggunakan syntax yang biasa digunakan dalam bahasa pemrograman Python 3. Selain itu, Anda akan mempelajari data types yang ada pada [Python] (https://www.python.org/)beserta operasi yang bisa dilakukan untuk setiap data types. Logical operations dan comparison statement juga akan dipelajari pada materi ini. Setelah itu, Anda akan mengenal tentang function dan built-in function yang ada pada [Python] (https://www.python.org/) 3.
+Materi ini akan membiasakan Anda untuk menggunakan syntax yang biasa digunakan dalam bahasa pemrograman Python 3. Selain itu, Anda akan mempelajari data types yang ada pada [Python](https://www.python.org/) beserta operasi yang bisa dilakukan untuk setiap data types. Logical operations dan comparison statement juga akan dipelajari pada materi ini. Setelah itu, Anda akan mengenal tentang function dan built-in function yang ada pada [Python](https://www.python.org/) 3.
 
 ## Materi 3 - Clustering & Principal Component Analysis
 Pada materi ini, Anda akan mulai memasuki ranah data science. Pembelajaran yang ditekankan pada modul ini berpusat pada metodologi dari setiap algoritma mengingat setiap algoritma perlu digunakan dengan caranya masing - masing.
